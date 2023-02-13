@@ -1,2 +1,2 @@
 # ESM-data
-ESM data for vious papers.
+ESM data for various papers.
